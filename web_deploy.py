@@ -4,6 +4,7 @@ import numpy as np
 from PIL import Image
 import carlist
 import make_model_list
+import lightgbm
 
 import joblib
 
